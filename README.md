@@ -11,10 +11,10 @@ A CSV file containing data on unicorn companies, including information such as c
 
 A Jupyter Notebook detailing the Exploratory Data Analysis (EDA) conducted on the UnicornCompanies.csv dataset.
 The notebook covers:
-Data Exploring
-* Data loading and cleaning
-* Basic statistical analysis
-* Data visualization to understand key trends and patterns
+* Data Exploring: Getting information about dataset (columns, datatypes, null values, etc.).
+* Data loading and cleaning: Handling missing values, outliers, and inconsistencies in the data.
+* Basic statistical analysis: Using statistical techniques to understand the underlying patterns and relationships in the data.
+* Data visualization: Creating various visualizations (histograms, scatter plots, box plots, etc.) to gain insights from the data.
 * In-depth analysis of specific features and their relationships
 * Potential insights and future analysis directions
 ## How to Use
