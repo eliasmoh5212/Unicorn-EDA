@@ -23,7 +23,6 @@ Clone the Repository:
 
 Bash
 git clone https://github.com/eliasmoh5212/Unicorn-EDA.git
-Use code with caution.
 
 Open the Notebook:
 
