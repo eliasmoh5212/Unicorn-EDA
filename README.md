@@ -17,6 +17,10 @@ The notebook covers:
 * Data visualization: Creating various visualizations (histograms, scatter plots, box plots, etc.) to gain insights from the data.
 * In-depth analysis of specific features and their relationships
 * Potential insights and future analysis directions
+#### EDA Report.docx:
+
+A Word document summarizing the key findings and insights from the EDA conducted in the EDA.ipynb notebook.
+
 ## How to Use
 
 #### Clone the Repository:
